@@ -36,5 +36,21 @@ Future Improvements
 * Improve password strength analysis
 * Add a graphical user interface
 
-Created by Alwin Babu Francis
-B.Tech Cybersecurity | AJCE (2025–2029)
+## Sample Output
+
+```text
+=== Password Strength Checker ===
+Enter a TEST password: Hello123!
+
+Password Strength: Strong
+```
+
+## Project Status
+
+Completed initial version.
+
+## Author
+
+Alwin Babu Francis  
+B.Tech Cybersecurity  
+Amal Jyothi College of Engineering (2025–2029)
